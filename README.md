@@ -3,7 +3,7 @@
 
 Yang *et al.* submitted the manuscript entitled __Engineered Agrobacterium mitigates plant immunity detection and improves T-DNA transfer__. This repo stores all EF-Tu sequence data in this study.
 
-## Folder description
+## Folder descriptions
 
 ### Raw
 
@@ -38,4 +38,4 @@ Fasta files above were preprocessed by filtering accessions that contains explic
 
 ### Aligned
 
-The cleaned EF-Tu sequence above aligned with multiple sequence alignment tool MAFFT (https://mafft.cbrc.jp/alignment/server/index.html). Output was download and used to subsequent analysis of amino acid variation. 
+The cleaned EF-Tu sequence above aligned with multiple sequence alignment tool MAFFT (https://mafft.cbrc.jp/alignment/server/index.html). The output file was download and used to determine EF-Tu amino acid variance at each position. 
