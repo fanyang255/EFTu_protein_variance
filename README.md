@@ -1,7 +1,7 @@
 # EF-Tu protein variance
 
 
-Yang *et al.* submitted the manuscript entitled __Engineered Agrobacterium mitigates plant immunity detection and improves T-DNA transfer__. This repo stores all EF-Tu sequence data in this study.
+Yang *et al.* submitted the manuscript entitled __Engineered ***Agrobacterium*** mitigates plant immunity detection and improves T-DNA transfer__. This repo stores all EF-Tu sequence data in this study.
 
 ## Folder descriptions
 
