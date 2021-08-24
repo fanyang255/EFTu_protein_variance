@@ -27,15 +27,15 @@ EF-Tu protein sequences were fetched from NCBI with Python BioEntrez query that 
 - Pseudomonas
 - Ralstonia
 - Rhizobium
-- Serratia and 
+- Serratia
 - Xanthomonas 
 
 
 ### Preprocessed
 
-Fasta files above were preprocessed by filtering accessions that contains explicit bacterial genus name and species name, and full-length EF-Tu protein. The filtered sequences from each genus were combined into one fasta file that contain 32,889 protein sequences.
+Fasta files above were preprocessed by filtering accessions that contains explicit bacterial genus name and species name, and full-length EF-Tu protein. The filtered sequences from each genus were combined into one fasta file that contains 32,889 protein sequences.
 
 
 ### Aligned
 
-The cleaned EF-Tu sequence above aligned with multiple sequence alignment tool MAFFT (https://mafft.cbrc.jp/alignment/server/index.html). The output file was download and used to determine EF-Tu amino acid variance at each position. 
+The cleaned EF-Tu sequences above were aligned with multiple sequence alignment tool MAFFT (https://mafft.cbrc.jp/alignment/server/index.html). The output file was download and used to determine EF-Tu amino acid variance at each position. 
